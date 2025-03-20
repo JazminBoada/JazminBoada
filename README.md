@@ -1,5 +1,5 @@
 <h1> ¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
-Mi nombre es Jazmin. Soy desarrolladora web Frontend de Buenos Aires, Argentina.
+Mi nombre es Jazmin. Soy desarrolladora web Frontend y diseñadora UI/UX de Buenos Aires, Argentina.
 
 ### Habilidades:
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/>  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/>
